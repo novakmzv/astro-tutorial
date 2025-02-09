@@ -19,3 +19,10 @@ h1 {
     margin: 1rem 0;
     font-size: 2.5rem;
 }
+
+footer{
+    background-color: darkgray;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
